@@ -1,0 +1,47 @@
+body{
+   margin: 0;
+   padding: 0%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-image: url(k.jpg);
+   background-size: cover;
+   
+    height: 100vh;
+    
+}
+
+
+
+.cen{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+   
+    border-radius: 40;
+    
+    
+}
+.cen h2{
+    color: aliceblue;
+   
+}
+.cen a{
+    color: black;
+    top: 80px;
+     left:0%;
+     
+     transform:translate(+40%,+200%);
+   
+}
+.cen p{
+    font-size: x-large;
+}
+    img {
+     border-radius: 100%;
+     top:0%;
+     left:0%;
+     
+     transform:translate(+40%,+80%);
+
+    }
+    
